@@ -13,7 +13,7 @@ This DApp is built using Hardhat and React. It consists of a smart contract writ
 To download the project, you can clone the repository using the following command:
 
 ```
-git clone https://github.com/UmarKhan19/Eth-Proof-Intermediate-Module-2](https://github.com/shivam70066/Eth-Avax-Project-2-
+git clone https://github.com/shivam70066/Eth-Avax-Project-2-
 ```
 
 After cloning the repository, navigate to the project's root directory.
